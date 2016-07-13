@@ -1,6 +1,8 @@
 # Hangman
 Hangman game with GUI based on turtle Library in python.
-Was created as the final project for Harvard Summer School Class of 2016 CSCI S-7
+
+
+###Was created as the final project for Harvard Summer School Class of 2016 CSCI S-7
 All of the code written by:
 Abhinav Khare
 Image used from:
