@@ -1,5 +1,5 @@
 # Hangman 
-Hangman game with GUI based on turtle Library in Python.
+Hangman game with GUI based on turtle Library in python.
 
 
 ###Was created as the final project for Harvard Summer School Class of 2016 CSCI S-7
